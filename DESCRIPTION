@@ -1,0 +1,10 @@
+Package: printFactors
+Type: Package
+Title: What the Package Does (Prints a list of factors)
+Version: 0.1.0
+Author: Anwaar Msehli
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description:simply the factors of any given number
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
